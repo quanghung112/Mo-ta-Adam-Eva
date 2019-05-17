@@ -1,0 +1,22 @@
+.Moblie{
+    width: 180px;
+    height: 250px;
+    border: 1px solid #d3d3d3;
+    float: left ;
+    margin-right: 30px;
+}
+.apple{
+    width: 180px;
+    height: 150px;
+    border: 1px solid #d3d3d3;
+    float: left ;
+    margin-right: 30px;
+}
+.isName{
+    border: 1px solid #d3d3d3;
+    text-align: center;
+
+}
+.a123{
+    display: none!important;
+}
